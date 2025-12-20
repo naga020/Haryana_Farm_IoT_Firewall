@@ -6,4 +6,4 @@ Project files:
 - farm_firewall_complete.csv – traffic + anomaly scores
 - threats_detected.csv – only packets flagged as threats
 
-Colab notebook: <paste your Colab link here>
+Colab notebook: https://colab.research.google.com/drive/1lYVG1IVHc1fC8hxMzX7P7xLp2LK-azib?usp=sharing
